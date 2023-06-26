@@ -1,6 +1,7 @@
 # AskDB
 
-![ASKDB](https://www.canva.com/design/DAFmKX6kHT8/o_k1w6Yo5qKJn-c2TLq9dA/edit?utm_content=DAFmKX6kHT8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![ASKDB](https://github.com/House-of-AI/askdb/blob/main/askdb.png)
+
 AskDB is an innovative tool designed to simplify the interaction with databases. It allows users to use natural language to query data, making database interaction accessible to a wider audience. 
 
 ## Features
