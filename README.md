@@ -1,7 +1,6 @@
 # AskDB
 
-![askdb](https://github.com/House-of-AI/askdb/assets/26055694/dc3ac624-70a2-4d9e-96cf-3230745aa76b)
-
+![Askdb (1)](https://github.com/House-of-AI/askdb/assets/26055694/668f97ae-3aeb-4daa-b485-4bbe0539a310)
 
 AskDB is an innovative tool designed to simplify the interaction with databases. It allows users to use natural language to query data, making database interaction accessible to a wider audience. 
 
